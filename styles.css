@@ -115,7 +115,7 @@ html {
 }
 
 body {
-  background: linear-gradient(to bottom, #043d18 0%, #556419 100%);
+  background: linear-gradient(to bottom, #bd0b0f 0%, #fb0f0f 100%);
   margin: 0;
   overflow-x: hidden;
   position: relative;
@@ -599,7 +599,7 @@ footer {
 #rana {
   width: 209px;
   margin: auto 0px auto 0px;
-  margin-bottom: -57px;
+  margin-bottom: -45px;
   z-index: 2;
 }
 
